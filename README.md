@@ -1,2 +1,2 @@
 # LauerLabCode
-Code done for the Lauer Lab
+Lauer Lab (JHMI) Code
