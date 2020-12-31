@@ -1,5 +1,5 @@
 function [Magnitude,AvgBaselineResp]=createFigure2A(DataSet)
-%For MATLAB
+%For MATLAB, use sheet 2 of the sample data as input
 %Function Purpose: create Figure 2A of Lina/Lauer 2013 Paper
 %Inputs: Data Set of time from 0 to max (preferably 30 ms) in one column and amplitudes of the ABR across that time period.   
 %Outputs: Magnitude (peak-to-peak amplitude of any wave within a 8ms time period after the first 2ms)  
